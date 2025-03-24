@@ -6,5 +6,6 @@ package edu.tecsup.semana2;
 public class App {
     public static void main(String[] args) {
         System.out.println("Salut les gars!");
+        System.out.println("Konichiwa mina-san!");
     }
 }
